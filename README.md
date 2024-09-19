@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-💻 Aim to fullstack developer
-📚 I am an information technology student of The University of Danang - University of Science and Technology
-🎵 Love lofi and soft music
-🚴‍♀️ Love bike 
-💖 In relationship
+-💻 Aim to fullstack developer
+-📚 I am an information technology student of The University of Danang - University of Science and Technology
+-🎵 Love lofi and soft music
+-🚴‍♀️ Love bike 
+-💖 In relationship
