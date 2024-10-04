@@ -6,7 +6,7 @@
 **chiennguyencoder/chiennguyencoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ```
-💻 Aim to fullstack developer
+💻 Aim to software engineer
 📚 I am an information technology student of The University of Danang - University of Science and Technology
 🎵 Love lofi and soft music
 🚴‍♀️ Love bike 
@@ -15,6 +15,6 @@
 
 ### Task list
 
-- [ ] Front end Developer
+- [ ] Software engineer
 - [ ] .
 - [ ] .
