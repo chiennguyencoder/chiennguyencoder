@@ -12,9 +12,3 @@
 🚴‍♀️ Love bike 
 💖 In relationship
 ```
-
-### Task list
-
-- [ ] Software engineer
-- [ ] .
-- [ ] .
