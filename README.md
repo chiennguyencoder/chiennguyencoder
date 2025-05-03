@@ -8,6 +8,6 @@
 ```
 💻 I'm a student at The University of Danang - University of Science and Technology  
 🚀 Aspiring Software Engineer  
-🌱 Currently learning: Vue.js, Node.js
+🌱 Currently learning: React.js, Node.js
 💖 In a relationship and love riding my bike 🚴‍♀️  
 ```
