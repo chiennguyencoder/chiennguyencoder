@@ -1,6 +1,6 @@
-<h2 align = "center">Hi there, I'm Nguyễn Minh Chiến 👋 
-  <br>
-</h3>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=18E532&size=30&center=true&width=500&height=70&lines=Hi+%2C+I'm+Nguyen+Minh+Chien" alt="Typing SVG" /></a></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=chiennguyencoder&label=Profile+views&color=b7bdf8&style=for-the-badge&base=0" alt="chiennguyencoder" height=25px, width=160px/></p>
 
 <!--
 **chiennguyencoder/chiennguyencoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
